@@ -9,5 +9,4 @@ function changeColor(){
     if(i === n){
         i = 0; 
     }
-    
 }
