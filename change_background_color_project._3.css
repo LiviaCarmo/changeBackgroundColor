@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+button{
+    color: white;
+    position: relative;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
